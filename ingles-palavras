@@ -1,14 +1,14 @@
 farm - fazenda
 estate - grande fazenda
 field - campo
-cultivo - crop
+crop - cultivo
 cattle - gado
 tractor - trator
 stable - estábulo
 pasture - pasto
-harvest - cocheita
+harvest - colheita
 fence - cerca
-corral - corral
+corral - curral
 chicken coop - galinheiro
 nursery - viveiro
 plow - arado
@@ -16,5 +16,15 @@ seed - semente
 silo - silo
 almond tree - amendoeiro
 orchard - horta / pomar
-mill - molino
-fodder - forraje
+mill - moinho
+fodder - forragem
+manure - esterco
+lumberjack - lenhador
+cart - carroça
+ox - boi
+cow - vaca
+horse - cavalo
+pig - porco
+sheep - ovelha
+goat - cabra
+bee - abelha
